@@ -31,7 +31,7 @@ To run the Chatroom Web Application on your local machine, you need to have the 
 
 ## Installation
 
-1. Clone the Chatroom repository from GitHub:
+1. Clone the Chatroom repository from GitHub: https://github.com/DevPatel3547/ChatRoom.git or you can use ssh, zip etc.
 
 2. Navigate to the project directory.
 
