@@ -4,16 +4,13 @@ The Chatroom Web Application is a full-stack web application developed using Pyt
 
 ## Table of Contents
 
-- [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
 
-The Chatroom Web Application offers the following features:
 
 - **Full Stack Development**: Developed using Python's Django web framework and SQLite database, the application encompasses both the frontend and backend components.
 - **Frontend Design**: Utilized HTML, CSS, and JavaScript to implement an appealing and intuitive user interface, resulting in an enhanced user experience.
